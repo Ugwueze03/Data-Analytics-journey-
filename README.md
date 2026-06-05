@@ -1,6 +1,6 @@
 # Data-Analytics-Journey 📊
 
-Documenting my data analytics journey with Excel, SQL, Power Bi & SQL.
+Documenting my data analytics journey with Excel, SQL, Power Bi & Python.
 
 ### About Me
 Aspiring Data Analyst. Excel Certified. Currently learning SQL for data analysis.
