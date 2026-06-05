@@ -14,7 +14,7 @@ Aspiring Data Analyst. Excel Certified. Currently learning SQL for data analysis
 Upload weekly progress as I learn. Holding myself accountable here.
 
 ### 2026 Roadmap
-- [✅] Month 1: Learn Excel + build first dashboard 
+- [✅ ] Month 1: Learn Excel + build first dashboard 
 - [ ] Month 1: SQL case studies 
 - [ ] Month 2: Learn Power BI + build first dashboard 
 - [ ] Month 3: Learn python 
