@@ -3,7 +3,7 @@
 Documenting my data analytics journey with Excel, SQL, Power Bi & Python.
 
 ### About Me
-Aspiring Data Analyst. Excel Certified. Currently learning SQL for data analysis.
+Aspiring Data Analyst.    - **Excel Certified** → [View Certificate](./certificates/excel-cert.pdf). Currently learning SQL for data analysis.
 
 ### Skills
 - **Excel**: Pivot Tables, VLOOKUP, Power Query, Data Analysis tools, Dashboards
